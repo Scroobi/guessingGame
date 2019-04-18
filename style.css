@@ -1,0 +1,13 @@
+#wrappingANcolor 
+{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 18px;
+    text-align: center; 
+    width: 940px;
+    margin: auto;
+    color: white;
+}
+#background
+{
+    background: blue;
+}
